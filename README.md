@@ -27,7 +27,7 @@
 <p align="center">
 <strong>2. GET SESSION ID</strong>
 <br>
-<a href="https://lukapair-f29d06b7b6bc.herokuapp.com/" target="_blank">
+<a href="https://lukaapair-fd6190ce040f.herokuapp.com/pair" target="_blank">
 <img alt="Pair Code" src="https://img.shields.io/badge/PAIR%20CODE-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=green&color=green"/>
 </a>
 </p>
