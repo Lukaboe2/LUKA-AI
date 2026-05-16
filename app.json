@@ -82,7 +82,7 @@
    },
     "CHATBOT": {
       "description": "Enable text chatbot (yes/no)",
-      "value": "no",
+      "value": "false",
       "required": false
    },
     "ANTIDELETE": {
