@@ -97,7 +97,11 @@
       "description": "Enable text chatbot (yes/no)",
       "value": "no",
       "required": false
-    
+    },
+    "PUBLIC_MODE": {
+      "description": "Type yes for public mode or no for private mode",
+      "value": "yes",
+      "required": false
     
     }
   },
