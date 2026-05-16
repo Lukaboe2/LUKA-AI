@@ -77,7 +77,7 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
-      "value": "no",
+      "value": "false",
       "required": false
    },
     "CHATBOT": {
