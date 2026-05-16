@@ -84,16 +84,7 @@
       "description": "Enable text chatbot (yes/no)",
       "value": "false",
       "required": false
-   },
-    "ANTIDELETE": {
-      "description": "Enable anti-delete to be sent inbox (yes/no)",
-      "value": "true",
-      "required": false
-   },    
-    "STARTING_BOT_MESSAGE": {
-      "description": "Enable starting message (yes/no)",
-      "value": "true",
-      "required": true
+  
    },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
