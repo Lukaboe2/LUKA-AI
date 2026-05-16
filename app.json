@@ -59,14 +59,6 @@
       "required": false
     },
     
-    "BOT_EXPIRATION_DATE": {
-      "description": "choose your preferred bot expiration date in the format dd/mm/yy",
-      "value": "11/03/2027",
-      "required": false
-    },
-    
-
-    
     "BOT_PIC": {
       "description": "Bot profile picture URL",
       "value": "https://files.catbox.moe/5mmt2y.png",
