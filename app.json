@@ -97,7 +97,7 @@
    },    
     "STARTING_BOT_MESSAGE": {
       "description": "Enable starting message (yes/no)",
-      "value": "yes",
+      "value": "true",
       "required": true
    },
     "PRESENCE": {
