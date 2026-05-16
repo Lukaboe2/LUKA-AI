@@ -92,7 +92,7 @@
    },
     "ANTIDELETE": {
       "description": "Enable anti-delete to be sent inbox (yes/no)",
-      "value": "yes",
+      "value": "true",
       "required": false
    },    
     "STARTING_BOT_MESSAGE": {
