@@ -68,12 +68,12 @@
 
     },
     "AUTO_DOWNLOAD_STATUS": {
-      "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
+      "description": "Status will be sent to your inbox automatically (type true to activate or false to deactivate)",
       "value": "false",
       "required": false
    },
     "CHATBOT": {
-      "description": "Enable text chatbot (yes/no)",
+      "description": "Enable text chatbot (true/false)",
       "value": "false",
       "required": false
   
