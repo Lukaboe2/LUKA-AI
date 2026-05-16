@@ -92,6 +92,13 @@
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
       "value": "",
       "required": false
+   },
+    "CHATBOT": {
+      "description": "Enable text chatbot (yes/no)",
+      "value": "no",
+      "required": false
+    
+    
     }
   },
   "buildpacks": [
