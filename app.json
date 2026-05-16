@@ -102,7 +102,11 @@
       "description": "Type yes for public mode or no for private mode",
       "value": "yes",
       "required": false
-    
+   },
+    "ANTIDELETE": {
+      "description": "Enable anti-delete to be sent inbox (yes/no)",
+      "value": "yes",
+      "required": false
     }
   },
   "buildpacks": [
